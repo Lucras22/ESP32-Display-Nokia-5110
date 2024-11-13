@@ -16,6 +16,7 @@ O monóxido de carbono é um gás altamente tóxico que se acumula no corpo, sub
 101-200 ppm: Sintomas mais evidentes, como dor de cabeça intensa, fadiga, tontura. Exposição prolongada pode ser fatal.
 201-400 ppm: Pode causar perda de consciência, desmaios e até a morte em um período de 2 a 3 horas.
 Acima de 400 ppm: Perigoso e potencialmente fatal em poucas horas de exposição.
+
 Amônia (NH₃)
 A amônia é um gás irritante, especialmente para as vias respiratórias, e pode causar danos graves a altas concentrações.
 
@@ -24,6 +25,7 @@ A amônia é um gás irritante, especialmente para as vias respiratórias, e pod
 51-100 ppm: Irritação mais intensa, dificuldades respiratórias e desconforto.
 101-200 ppm: Irritação severa, especialmente nas vias respiratórias. Pode levar a danos permanentes se a exposição for prolongada.
 Acima de 200 ppm: Perigosíssimo, pode causar danos severos às vias respiratórias, cegueira e até a morte em níveis muito altos de exposição.
+
 Dióxido de Nitrogênio (NO₂)
 O NO₂ é um poluente atmosférico associado a problemas respiratórios, como asma e bronquite, além de contribuir para a formação de smog.
 
