@@ -26,13 +26,11 @@ void setup()
   display.setTextColor(WHITE, BLACK);
   display.setCursor(0,1);
   display.setTextSize(2);
-  display.println("|ESP32|");
+  display.println("|Lucas|");
   display.setTextSize(1);
   display.setTextColor(BLACK);
   display.setCursor(22,20);
-  display.println("|Nokia|");
-  display.setCursor(22,32);
-  display.println("|5110|");
+  display.println("|Galindo|");
   display.display();
   delay(2000);
 }
