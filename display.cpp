@@ -26,11 +26,11 @@ void setup()
   display.setTextColor(WHITE, BLACK);
   display.setCursor(0,1);
   display.setTextSize(2);
-  display.println("|Lucas|");
+  display.println("|♡PAULA♡|");
   display.setTextSize(1);
   display.setTextColor(BLACK);
   display.setCursor(22,20);
-  display.println("|Galindo|");
+  display.println("|♡NATALI♡|");
   display.display();
   delay(2000);
 }
